@@ -53,8 +53,8 @@
     <div class="container">
 
       <div class="starter-template">
-        <h1>Hallo <?php echo 'GGN'?></h1>
-        <p class="lead">GGN Example Source To Image PHP</p>
+        <h1>Hallo <?php echo 'Agello'?></h1>
+        <p class="lead">Agello Example Source To Image PHP</p>
       </div>
 
     </div><!-- /.container -->
