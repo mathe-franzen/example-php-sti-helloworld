@@ -54,7 +54,7 @@
 
       <div class="starter-template">
         <h1>Hallo <?php echo 'Agello'?></h1>
-        <p class="lead">Agello Example Source To Image PHP</p>
+        <p class="lead">Agello Example Source To Image PHP, and some extra text added for test webhook</p>
       </div>
 
     </div><!-- /.container -->
